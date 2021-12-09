@@ -11,7 +11,7 @@
 
 - 젯슨 비번 : `1q2w3e4r`
 
-- [x] [젯슨 나노 세팅하기](https://www.notion.so/44415645b77f40dabc7878f404aac4c6)
+- [x] [젯슨 나노 세팅하기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%A0%AF%EC%8A%A8%20%EB%82%98%EB%85%B8%20%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0.md)
 - [x] [Jetpack에 필요한 소프트웨어 설치하기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/Jetpack%EC%97%90%20%ED%95%84%EC%9A%94%ED%95%9C%20%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0.md)
 - [x] [SpiderCar 실행시키기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/SpiderCar%20%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0.md)
 - [x] [부팅 시 자동 실행기키기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EB%B6%80%ED%8C%85%20%EC%8B%9C%20%EC%9E%90%EB%8F%99%20%EC%8B%A4%ED%96%89%EA%B8%B0%ED%82%A4%EA%B8%B0.md)
@@ -31,7 +31,7 @@
     2. RTCPub, RTCCam, RCController, HallSensor와 같은 부분들을 차례대로 설명해나갑니다.
     3. 이 과정에서 발생하는 유의사항과 디버깅 포인트들도 추가로 다루도록 하겠습니다.
 
-- [x] [코드 설명 - SpiderDonkey_Async.py](https://www.notion.so/SpiderDonkey_Async-py-47c3aa749c9743b79e2af487740bf302)
+- [x] [코드 설명 - SpiderDonkey_Async.py](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20SpiderDonkey_Async%20py.md)
 - [ ] [코드 설명 - CSI Camera](https://www.notion.so/CSI-Camera-89a8178861274c728d86e033773263f4)
 - [ ] [코드 설명 - RTCPub](https://www.notion.so/RTCPub-7ef0d9eaef5a41579972763f114b81df)
 - [ ] [코드 설명 - RC카 제어](https://www.notion.so/RC-db9d485fccfa4527bdbedc61fec98ebf)
