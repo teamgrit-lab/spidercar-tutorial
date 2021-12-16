@@ -1,9 +1,8 @@
 # 코드 설명 - SpiderDonkey_Async.py
 
 > SpiderCar의 전신이 되는 코드의 설명입니다.
-> 
 
-[](https://github.com/teamgrit-lab/hello-mars-spidercar/blob/master/SpiderDonkey_Async.py)
+[SpiderDonkey_Async.py](https://github.com/teamgrit-lab/hello-mars-spidercar/blob/master/SpiderDonkey_Async.py)
 
 ## 📢 Import 부분
 
