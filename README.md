@@ -16,7 +16,6 @@
 - [x] [SpiderCar 실행시키기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/SpiderCar%20%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0.md)
 - [x] [부팅 시 자동 실행기키기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EB%B6%80%ED%8C%85%20%EC%8B%9C%20%EC%9E%90%EB%8F%99%20%EC%8B%A4%ED%96%89%EA%B8%B0%ED%82%A4%EA%B8%B0.md)
 - [x] [LTE 모듈 - SIM7600 4G HAT](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/LTE%20%EB%AA%A8%EB%93%88%20-%20SIM7600%204G%20HAT.md)
-- [ ] [하드웨어 조립하기](https://www.notion.so/c11faef9dea5408a886768a9de4f83ed)
 - [x] [하드웨어 연결 확인하기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4%20%EC%97%B0%EA%B2%B0%20%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0.md)
 - [x] [RC카 영점 조절하기](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/RC%EC%B9%B4%20%EC%98%81%EC%A0%90%20%EC%A1%B0%EC%A0%88%ED%95%98%EA%B8%B0.md)
 - [x] [Wifi 설정](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/Wifi%20%EC%84%A4%EC%A0%95.md)
