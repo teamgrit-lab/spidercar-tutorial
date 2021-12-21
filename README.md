@@ -34,7 +34,7 @@
 - [x] [코드 설명 - SpiderDonkey_Async.py](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20SpiderDonkey_Async%20py.md)
 - [x] [코드 설명 - CSI Camera](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20CSI%20Camera.md)
 - [x] [코드 설명 - RTCPub](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20RTCPub.md)
-- [x] [코드 설명 - RC카 제어](https://www.notion.so/RC-db9d485fccfa4527bdbedc61fec98ebf)
+- [x] [코드 설명 - RC카 제어](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20RC%EC%B9%B4%20%EC%A0%9C%EC%96%B4.md)
 - [x] [코드 설명 - 센서](https://github.com/teamgrit-lab/spidercar-tutorial/blob/main/%EC%BD%94%EB%93%9C%20%EC%84%A4%EB%AA%85%20-%20%EC%84%BC%EC%84%9C.md)
 
 Q & A와  디버깅 포인트
